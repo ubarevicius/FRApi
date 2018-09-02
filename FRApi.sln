@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FRApi", "FRApi\FRApi.fsproj", "{EF639401-123A-490F-A9B1-A6D64F959707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RhinoCompute", "RhinoCompute\RhinoCompute.csproj", "{C0279A50-0D4E-449E-B5EA-D7162D46015F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF639401-123A-490F-A9B1-A6D64F959707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF639401-123A-490F-A9B1-A6D64F959707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF639401-123A-490F-A9B1-A6D64F959707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF639401-123A-490F-A9B1-A6D64F959707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0279A50-0D4E-449E-B5EA-D7162D46015F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0279A50-0D4E-449E-B5EA-D7162D46015F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0279A50-0D4E-449E-B5EA-D7162D46015F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0279A50-0D4E-449E-B5EA-D7162D46015F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {992767D8-4807-4561-9FA8-B7196AED0244}
+	EndGlobalSection
+EndGlobal
